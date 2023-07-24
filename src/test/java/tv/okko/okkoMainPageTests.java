@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import tv.okko.pages.MainPage;
 
-public class okkoMainPageTests extends TestBase{
+public class okkoMainPageTests extends TestBase {
 
     MainPage mainPage = new MainPage();
 
