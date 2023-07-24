@@ -46,7 +46,7 @@ test {
     useJUnitPlatform()
 }
 
-task simple_test(type: Test) {
+task all_test(type: Test) {
     useJUnitPlatform{
         includeTags("all")
     }
