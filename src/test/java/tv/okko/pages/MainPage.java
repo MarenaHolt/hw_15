@@ -23,7 +23,7 @@ public class MainPage {
 
     @Step("Открываем главную страницу")
     public MainPage openMainPage() {
-        open("https://okko.tv/");
+        open("");
         return this;
     }
 
